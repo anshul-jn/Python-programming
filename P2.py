@@ -1,7 +1,5 @@
 #Write a programme to calculate the bill amount a night giving its quantity sold, value, discount and tax 
 #taking input from the user
-
-
 #a=quantity , b=value , c= Discount , d=Tax 
 a=eval(input("Enter the quantity of item sold:"))
 b=eval(input("Enter the value of item:"))
